@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhamadjordysetiawan"><img src="https://img.shields.io/badge/LinkedIn-muhamadjordysetiawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.instagram.com/set1awanjordy"><img src="https://img.shields.io/badge/Instagram-%40set1awanjordy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="mailto:muhammadjordysetiawan3882@gmail.com"><img src="https://img.shields.io/badge/Email-Kirim%20Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/setiawanjordy"><img src="https://img.shields.io/badge/LinkedIn-setiawanjordy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.instagram.com/set1awanjordy"><img src="https://img.shields.io/badge/Instagram-%40set1awanjordy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="mailto:muhammadjordysetiawan3882@gmail.com"><img src="https://img.shields.io/badge/Email-Kirim%20Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -178,7 +178,7 @@ Saya memakai AI sebagai *pair programmer*: menyusun arsitektur, mempercepat boil
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/muhamadjordysetiawan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.instagram.com/set1awanjordy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="mailto:muhammadjordysetiawan3882@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/setiawanjordy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.instagram.com/set1awanjordy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="mailto:muhammadjordysetiawan3882@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 <br /><br />
 
