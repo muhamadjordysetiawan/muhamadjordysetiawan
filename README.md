@@ -160,17 +160,9 @@ Saya memakai AI sebagai *pair programmer*: menyusun arsitektur, mempercepat boil
 
 <p><i>Pac-Man dan Snake ini digenerate otomatis oleh GitHub Actions dari contribution graph saya, setiap hari.</i></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadjordysetiawan/muhamadjordysetiawan/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadjordysetiawan/muhamadjordysetiawan/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man memakan contribution graph" src="https://raw.githubusercontent.com/muhamadjordysetiawan/muhamadjordysetiawan/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
+<img alt="Pac-Man memakan contribution graph" src="https://raw.githubusercontent.com/muhamadjordysetiawan/muhamadjordysetiawan/output/pacman-contribution-graph-dark.svg" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadjordysetiawan/muhamadjordysetiawan/output/snake-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadjordysetiawan/muhamadjordysetiawan/output/snake-contribution-graph.svg" />
-  <img alt="Snake memakan contribution graph" src="https://raw.githubusercontent.com/muhamadjordysetiawan/muhamadjordysetiawan/output/snake-contribution-graph.svg" width="100%" />
-</picture>
+<img alt="Snake memakan contribution graph" src="https://raw.githubusercontent.com/muhamadjordysetiawan/muhamadjordysetiawan/output/snake-contribution-graph-dark.svg" width="100%" />
 
 </div>
 
