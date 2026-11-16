@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="26" viewBox="0 0 1200 26" role="presentation">
+  <line x1="0" y1="13" x2="536" y2="13" stroke="#26374F" stroke-width="2" stroke-dasharray="2 10" stroke-linecap="round"/>
+  <line x1="672" y1="13" x2="1200" y2="13" stroke="#26374F" stroke-width="2" stroke-dasharray="2 10" stroke-linecap="round"/>
+  <path d="M600 13 L611 6.4 A12 12 0 1 0 611 19.6 Z" fill="#FACC15"/>
+  <circle cx="626" cy="13" r="2.6" fill="#26374F"/>
+  <circle cx="642" cy="13" r="2.6" fill="#26374F"/>
+  <circle cx="658" cy="13" r="2.6" fill="#26374F"/>
+</svg>
